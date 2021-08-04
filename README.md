@@ -1,4 +1,4 @@
-# quicksort_visualization
+# Quick Sort Visualization Tool
 
 # Description
 A java application that provides a visualization tool for the quick sort algorithm.
